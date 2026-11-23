@@ -74,6 +74,7 @@ Enter new marks for Charlie: 105
 Invalid marks (105) for Charlie. Enter valid marks (0 to 100): 82
 Re-evaluate another student? (y/n): n
 
+--- Updated Student Details ---
 Name: Alice
 Roll No: 101
 Marks: 95.5
